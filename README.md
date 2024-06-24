@@ -1,6 +1,6 @@
 # portfolio-appmobile
 This portfolio contains a native mobile app made with reactnative
-# description
+# Description
 This portfolio contains a native mobile app made with reactnative
 This app has a home page, it shows a navbar at the bottom optimizing use on mobile devices, the available tabs are:
 1.- Home 
